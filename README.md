@@ -23,10 +23,10 @@ mvn test
 ```
 mcn javadoc:javadoc o mvn javadoc:jar (generar jar)
 ```
-##Ejecutar Programa
+## Ejecutar Programa
 Cuando ejecute el programa la aplicación esta disponible  **http://localhost:4567/**
 
-##Enlace Heroku
+## Enlace Heroku
 [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](https://powerful-stream-48879.herokuapp.com/)
 ## Licencia
 Ver licencia en LICENCE.txt para más detalles.
